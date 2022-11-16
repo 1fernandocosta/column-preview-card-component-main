@@ -24,7 +24,7 @@ Esta é uma solução para o [News homepage challenge on Frontend Mentor](https:
 
 ### Aprendizados com desafio
 
-Distribuição so conteúdo em CSS Grid, Media Queries - CSS e menu mobile JS.
+Distribuição do conteúdo em CSS Grid e Media Queries - CSS.
 
 CSS versão mobile:
 
