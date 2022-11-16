@@ -20,9 +20,7 @@ Esta é uma solução para o [News homepage challenge on Frontend Mentor](https:
 
 - HTML5 semântico
 - CSS
-- CSS Grid
 - Mobile-first
-- [React](https://reactjs.org/) - JS library
 
 ### Aprendizados com desafio
 
