@@ -12,7 +12,7 @@ Esta é uma solução para o [News homepage challenge on Frontend Mentor](https:
 ### Links
 
 - URL da solução: [Clique para acessar o código](https://github.com/1fernandocosta/column-preview-card-component-main)
-- URL do site: [Clique para acessar o site](https://1fernandocosta.github.io/column-preview-card-component-main//)
+- URL do site: [Clique para acessar o site](https://1fernandocosta.github.io/column-preview-card-component-main/)
 
 ## Meu processo
 
@@ -55,6 +55,6 @@ Deixar código cada dia mais limpo.
 
 ## Author
 
-- Facebook - [Fernando Costa de Morais](https://www.fb.com/1fernandocosta)
-- Frontend Mentor - [@1fernandocosta](https://www.frontendmentor.io/profile/1fernandocosta)
-- Linkedin - [Fernando Costa de Morais](https://www.linkedin.com/in/fernandocostademorais/)
+- Facebook - [Fernando Costa de Morais](https://www.fb.com/1fernandocosta target: _blank)
+- Frontend Mentor - [@1fernandocosta](https://www.frontendmentor.io/profile/1fernandocosta target: _blank)
+- Linkedin - [Fernando Costa de Morais](https://www.linkedin.com/in/fernandocostademorais target: _blank)
