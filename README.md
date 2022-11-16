@@ -55,6 +55,6 @@ Deixar código cada dia mais limpo.
 
 ## Author
 
-- Facebook - [Fernando Costa de Morais](https://www.fb.com/1fernandocosta-target-blank)
+- Facebook - [Fernando Costa de Morais](https://www.fb.com/1fernandocosta)target="_blank"
 - Frontend Mentor - [@1fernandocosta](https://www.frontendmentor.io/profile/1fernandocosta target: _blank)
 - Linkedin - [Fernando Costa de Morais](https://www.linkedin.com/in/fernandocostademorais target: _blank)
