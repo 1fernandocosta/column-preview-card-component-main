@@ -1,0 +1,99 @@
+:root{
+    ---color01: hsl(31, 77%, 52%);
+    ---color02: hsl(184, 100%, 22%);
+    ---color03: hsl(179, 100%, 13%);
+    ---color04: #F2F2F2
+}
+
+*{
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(---color04);
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1440px;
+    height: 800px;
+    background-color: var(---color04);
+    margin: 0 auto;
+}
+
+#contents{
+    display: flex;
+width: 920px;
+height: 500px;
+border-radius: 0.5rem;
+overflow: auto;
+}
+
+#contents h1{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 35px;
+    text-transform: uppercase;
+    padding: 44px 0 21px 0;
+}
+
+#contents p{
+    line-height: 25px;
+}
+
+#contents a{
+    display: block;
+    text-align: center;
+    padding: 10px 10px;
+    margin-top: 90px;
+    border-radius: 50px;
+    width: 145px;
+    background-color: var(---color04);
+    border: 2px solid var(---color04);
+    transition: 0.3s;
+}
+
+#contents a:hover{
+background-color: transparent;
+color: var(---color04);
+}
+
+#contents .content{
+    width: 33.334%;
+    padding: 46px 50px 46px 46px;
+}
+
+#sedans{
+    background-color: var(---color01);
+}
+
+#sedans a{
+    color: var(---color01);
+}
+
+#suvs{
+    background-color: var(---color02);
+}
+
+#suvs a{
+    color: var(---color02);
+}
+
+#luxury{
+    background-color: var(---color03);
+}
+
+#luxury p{
+    width: 214px;
+}
+
+#luxury a{
+    color: var(---color03);
+}

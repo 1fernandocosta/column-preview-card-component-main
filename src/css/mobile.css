@@ -1,0 +1,18 @@
+@media screen and (max-width:375px) {
+    #header{
+        width: 375px;
+        height: auto;
+    }
+
+    #contents .content{
+        width: 375px;
+   }
+
+    #contents{
+        display: block;
+        height: auto;
+    }
+
+
+}
+
