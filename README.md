@@ -1,5 +1,5 @@
 # column-preview-card-component-main
-Desagio Front End Mentor column-preview-card-component-main
+2º Desafio Front End Mentor - column-preview-card-component-main
 
 # Frontend Mentor - Solução de página inicial de notícias
 
