@@ -2,7 +2,7 @@
     ---color01: hsl(31, 77%, 52%);
     ---color02: hsl(184, 100%, 22%);
     ---color03: hsl(179, 100%, 13%);
-    ---color04: #F2F2F2
+    ---color04: hsl(0, 0%, 95%);
 }
 
 *{
@@ -14,22 +14,25 @@
     font-family: 'Lexend Deca', sans-serif;
 }
 
+body{
+    background-color: var(---color04);
+}
+
 a{
     text-decoration: none;
     color: black;
 }
 
-#header{
+.main{
     display: flex;
     align-items: center;
     justify-content: center;
     width: 1440px;
     height: 800px;
-    background-color: var(---color04);
     margin: 0 auto;
 }
 
-#contents{
+.contents{
     display: flex;
 width: 920px;
 height: 500px;
@@ -37,21 +40,21 @@ border-radius: 0.5rem;
 overflow: auto;
 }
 
-#contents h1{
+.contents h2{
     font-family: 'Big Shoulders Display', cursive;
     font-size: 35px;
     text-transform: uppercase;
     padding: 44px 0 21px 0;
 }
 
-#contents p{
+.contents p{
     line-height: 25px;
 }
 
-#contents a{
+.contents a{
     display: block;
     text-align: center;
-    padding: 10px 10px;
+    padding: 10px;
     margin-top: 90px;
     border-radius: 50px;
     width: 145px;
@@ -60,40 +63,40 @@ overflow: auto;
     transition: 0.3s;
 }
 
-#contents a:hover{
+.contents a:hover{
 background-color: transparent;
 color: var(---color04);
 }
 
-#contents .content{
+.content{
     width: 33.334%;
     padding: 46px 50px 46px 46px;
 }
 
-#sedans{
+.sedans{
     background-color: var(---color01);
 }
 
-#sedans a{
+.sedans a{
     color: var(---color01);
 }
 
-#suvs{
+.suvs{
     background-color: var(---color02);
 }
 
-#suvs a{
+.suvs a{
     color: var(---color02);
 }
 
-#luxury{
+.luxury{
     background-color: var(---color03);
 }
 
-#luxury p{
+.luxury p{
     width: 214px;
 }
 
-#luxury a{
+.luxury a{
     color: var(---color03);
 }
